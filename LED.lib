@@ -1,0 +1,3 @@
+.model WhiteLED D
++         fv_max=3.3
++         id_max=0.2
